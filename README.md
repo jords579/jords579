@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a first year Computer Science student with a background in penetration testing, scripting and web development. 
+I am always eager to improve my knowledge and skills.
 
 <!--
 **jords579/jords579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
