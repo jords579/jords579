@@ -4,8 +4,8 @@ I am a first year Computer Science student with a background in
 - OSINT/Cybersecurity,
 - scripting,
 - web development.<br>
-<ul></ul>
-I am always eager to improve my knowledge and skills.
+---
+I am always eager to learn and to listen to any advice given in <br> order to improve my knowledge and skills.
 
 <!--
 **jords579/jords579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
