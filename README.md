@@ -2,7 +2,7 @@
 I am a first year Computer Science student with a background in 
 - penetration testing, 
 - scripting and 
-- web development. 
+- web development.<br> 
 I am always eager to improve my knowledge and skills.
 
 <!--
