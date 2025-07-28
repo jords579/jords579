@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am a first year Computer Science student with a background in 
-- penetration testing, 
+- penetration testing,
+- OSINT/Cybersecurity,
 - scripting and 
 - web development.<br> 
 I am always eager to improve my knowledge and skills.
